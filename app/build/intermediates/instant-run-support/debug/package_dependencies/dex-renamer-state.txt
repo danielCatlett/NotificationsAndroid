@@ -1,0 +1,25 @@
+#Wed Sep 20 23:21:27 CDT 2017
+renamed.7=classes5.dex
+renamed.6=classes8.dex
+renamed.5=classes2.dex
+renamed.4=classes3.dex
+renamed.3=classes.dex
+renamed.2=classes7.dex
+renamed.1=classes4.dex
+renamed.0=classes6.dex
+base.7=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8780956e1540f178160404c553ed7b23546062ca
+base.6=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_b120432eb58682ec4e86f1a05e5e3a005beade25
+base.5=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_17fb193e8de179ed256187853d0b0cf9465be21c
+base.4=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1be9cffbb16527618b7c7889b0ef7f7bcee0ccd1
+base.3=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0d5f237a1a423e80480cc53c1538b5e991d047de
+base.2=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_79765127a6f56bd4e88e5ce43f8b226567b81930
+base.1=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7ad996908cadf35ac4eaecd83458b354fa0c5a8e
+base.0=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b2de111e9ae367c80360aa9fedfd85ee9c01d012
+file.7=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8780956e1540f178160404c553ed7b23546062ca\\classes.dex
+file.6=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_b120432eb58682ec4e86f1a05e5e3a005beade25\\classes.dex
+file.5=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_17fb193e8de179ed256187853d0b0cf9465be21c\\classes.dex
+file.4=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1be9cffbb16527618b7c7889b0ef7f7bcee0ccd1\\classes.dex
+file.3=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0d5f237a1a423e80480cc53c1538b5e991d047de\\classes.dex
+file.2=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_79765127a6f56bd4e88e5ce43f8b226567b81930\\classes.dex
+file.1=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7ad996908cadf35ac4eaecd83458b354fa0c5a8e\\classes.dex
+file.0=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b2de111e9ae367c80360aa9fedfd85ee9c01d012\\classes.dex

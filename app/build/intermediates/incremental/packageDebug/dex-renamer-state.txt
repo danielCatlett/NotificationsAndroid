@@ -1,0 +1,7 @@
+#Wed Sep 20 23:21:29 CDT 2017
+base.0=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3ba5d329409a2369f66de7da65d6ae63dd5452c0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0a0861c78377b15b739b301378c86e1297e9865\\classes.dex
+base.1=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0a0861c78377b15b739b301378c86e1297e9865
+file.0=C\:\\Users\\danie\\Documents\\Android-Programming-Misc\\AndroidStudioProjects\\Ex_Files_Android_Communicating\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3ba5d329409a2369f66de7da65d6ae63dd5452c0\\classes.dex
